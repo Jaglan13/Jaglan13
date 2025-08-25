@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshay  
 
-💻 MCA Student at RVCE | Passionate about Cloud-Native Apps, DevOps & Real-Time Systems  
+💻 MCA Student at RVCE | Passionate Developer | Lifelong Learner  
 
 ---
 
