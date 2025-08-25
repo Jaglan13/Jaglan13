@@ -27,8 +27,8 @@
 
 ## 🚀 Skills  
 - Languages: Python, Java, JavaScript, C  
-- Web Development: React, Node.js, HTML5, CSS3, Bootstrap  
-- Databases: MySQL, MongoDB, SQLite  
+- Web Development: HTML5, CSS3, Bootstrap  
+- Databases: MySQL, MongoDB 
 - DevOps & Cloud: Docker, Kubernetes  
 - Other: Git, Linux, REST APIs, Android Studio  
 
@@ -62,7 +62,7 @@
 ## 🌱 About Me  
 - 🎓 Pursuing MCA at RVCE  
 - 🧑‍🤝‍🧑 Love working on team projects and solving real-world problems  
-- ✨ Interested in Cloud-Native Development & AI for Society  
+- ✨ Interested in Coding   
 - 📫 Reach me at: mailto:ak8452057@gmail.com | [LinkedIn](https://linkedin.com/in/akshay-jaglan/)  
 
 ---
