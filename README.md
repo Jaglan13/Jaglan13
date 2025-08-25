@@ -40,7 +40,7 @@
   Supports live multi-user coding in real time with synchronization and collaboration features.  
 
 - 🔹 Coffee Shop | Web Development  
-  Developed a responsive web-based coffee shop application using **HTML5, CSS3, Bootstrap, and JavaScript**.  
+  Developed a responsive web-based coffee shop application using HTML5, CSS3, Bootstrap, and JavaScript.  
   Implemented features like online ordering and menu display to enhance user interaction and experience.  
 
 - 🔹 Voice Assistant | Python  
