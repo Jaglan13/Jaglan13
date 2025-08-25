@@ -5,10 +5,10 @@
 ---
 
 ## 🚀 Skills  
-- **Languages**: Python, Java, JavaScript, C++  
-- **Web Development**: React, Node.js, Laravel, Flutter  
+- **Languages**: Python, Java, JavaScript, C  
+- **Web Development**: React, Node.js, Html, CSS  
 - **Databases**: MySQL, MongoDB  
-- **DevOps & Cloud**: Docker, Kubernetes, AWS  
+- **DevOps & Cloud**: Docker, Kubernetes
 - **Other**: Git, Linux, REST APIs  
 
 ---
